@@ -1,1 +1,1 @@
-streamlit\nscikit-learn\npandas\nnumpy\njoblib
+streamlit==1.27.2\nscikit-learn==1.2.2\npandas==2.0.3\nnumpy==1.23.5\njoblib==1.2.0
